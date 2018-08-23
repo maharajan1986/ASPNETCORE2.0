@@ -1,0 +1,11 @@
+C:\Projects\NavTypeInCmplxType\Api\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+C:\Projects\NavTypeInCmplxType\Api\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+C:\Projects\NavTypeInCmplxType\Api\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+C:\Projects\NavTypeInCmplxType\Api\Api\bin\Debug\netcoreapp2.0\Api.dll
+C:\Projects\NavTypeInCmplxType\Api\Api\bin\Debug\netcoreapp2.0\Api.pdb
+C:\Projects\NavTypeInCmplxType\Api\Api\obj\Debug\netcoreapp2.0\Api.csprojAssemblyReference.cache
+C:\Projects\NavTypeInCmplxType\Api\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+C:\Projects\NavTypeInCmplxType\Api\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+C:\Projects\NavTypeInCmplxType\Api\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+C:\Projects\NavTypeInCmplxType\Api\Api\obj\Debug\netcoreapp2.0\Api.dll
+C:\Projects\NavTypeInCmplxType\Api\Api\obj\Debug\netcoreapp2.0\Api.pdb
