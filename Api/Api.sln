@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2000
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{B58702A0-D7D6-4CAE-AA5E-2447A6DBD0FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE6", "ASPNETCORE6\ASPNETCORE6.csproj", "{D2A078D9-F023-4E87-898E-8E58FB54E83D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B58702A0-D7D6-4CAE-AA5E-2447A6DBD0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B58702A0-D7D6-4CAE-AA5E-2447A6DBD0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B58702A0-D7D6-4CAE-AA5E-2447A6DBD0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B58702A0-D7D6-4CAE-AA5E-2447A6DBD0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A078D9-F023-4E87-898E-8E58FB54E83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A078D9-F023-4E87-898E-8E58FB54E83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A078D9-F023-4E87-898E-8E58FB54E83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A078D9-F023-4E87-898E-8E58FB54E83D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
